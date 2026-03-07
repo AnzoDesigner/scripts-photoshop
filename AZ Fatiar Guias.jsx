@@ -1,20 +1,3 @@
-/*
-@@@BUILDINFO@@@ Image Processor.jsx 1.2.0.3
-*/
-
-/*
-
-// BEGIN__HARVEST_EXCEPTION_ZSTRING
-
-<javascriptresource>
-<name>$$$/JavaScripts/ImageProcessor/Menu=Image Processor...</name>
-<category>aaaThisPutsMeAtTheTopOfTheMenu</category>
-</javascriptresource>
-
-// END__HARVEST_EXCEPTION_ZSTRING
-
-*/
-
 #target photoshop
 app.bringToFront();
 
@@ -27,8 +10,8 @@ app.bringToFront();
     var doc = app.activeDocument;
 
     // ====== AÇÃO GRAVADA (fixa) ======
-    var ACTION_SET_NAME = "Ações Padrão";
-    var ACTION_NAME     = "FatiarGuias";
+    var ACTION_SET_NAME = "ANZO ACTIONS";
+    var ACTION_NAME     = "FATIAR_GUIAS";
     // =================================
 
     // =========================
